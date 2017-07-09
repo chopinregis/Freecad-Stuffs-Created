@@ -29,9 +29,9 @@
      inkscape:window-height="1026"
      id="namedview78"
      showgrid="false"
-     inkscape:zoom="1.2291667"
-     inkscape:cx="-71.991713"
-     inkscape:cy="70.747215"
+     inkscape:zoom="3.4766084"
+     inkscape:cx="71.670058"
+     inkscape:cy="30.770288"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -521,7 +521,7 @@
        xlink:href="#linearGradient5490"
        id="linearGradient4835"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.02729782,0,0,0.02729782,996.84089,110.1873)"
+       gradientTransform="matrix(0.0044109,0,0,0.0044109,17.171608,22.434318)"
        x1="1069.1766"
        y1="26.882713"
        x2="1069.1766"
@@ -531,11 +531,50 @@
        xlink:href="#linearGradient5454"
        id="linearGradient4837"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.02729782,0,0,0.02729782,996.84089,110.18738)"
+       gradientTransform="matrix(0.0044109,0,0,0.0044109,17.171608,22.434331)"
        x1="4756.96"
        y1="7821.3032"
        x2="11763"
        y2="7821.3032" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4634"
+       x="-0.11046681"
+       width="1.2209336"
+       y="-0.060254623"
+       height="1.1205092">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2181443"
+         id="feGaussianBlur4636" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4638"
+       x="-0.11046681"
+       width="1.2209336"
+       y="-0.060254623"
+       height="1.1205092">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2181443"
+         id="feGaussianBlur4640" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4642"
+       x="-0.066280012"
+       width="1.13256"
+       y="-0.066280009"
+       height="1.13256">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2181443"
+         id="feGaussianBlur4644" />
+    </filter>
   </defs>
   <metadata
      id="metadata2413">
@@ -615,6 +654,14 @@
        id="rect3716"
        style="opacity:0.45;fill:url(#linearGradient3721);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
   </g>
+  <path
+     d="m 17.171608,22.434318 26.46538,0 0,8.821787 -17.643591,0 0,8.821804 8.821787,0 0,8.821787 -8.821787,0 0,22.054488 -8.821789,0 0,-48.519866"
+     id="path4508"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150"
+     style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;filter:url(#filter4634)"
+     vector-effect="non-scaling-stroke" />
   <g
      id="layer1"
      style="display:inline">
@@ -643,1227 +690,980 @@
      inkscape:label="Background "
      transform="matrix(0.16158422,0,0,0.16158422,-150.78502,0.71595479)" />
   <g
-     id="layer12"
-     inkscape:label="Logo"
-     style="display:inline"
-     transform="matrix(0.16158422,0,0,0.16158422,-143.90215,4.629789)">
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4471"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4475"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4483"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4487"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="M 8163.05,9067.78 11350.9,6651.63"
-         id="path4489"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4491"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4495"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4503"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4507"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4513"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:Ubuntu, Arial, Helvetica, Sans;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.0543879,-0.04122243,0.04122243,0.0543879,372.3089,323.65108)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4519"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 14887.2,2859.71 300,0 0,9999.99 -300,0"
-         id="path4521"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4523"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4527"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4531"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4535"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4539"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4545"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circle light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0,0.06824455,-0.06824455,0,522.7308,324.74026)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4551"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 0,-468.384 0,-300 6000,0 0,300"
-         id="path4553"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4555"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4559"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4563"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4567"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4571"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4577"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.06824455,0,0,0.06824455,188.68253,87.847079)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4583"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 6422.22,0 300,0 0,2000 -300,0"
-         id="path4585"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4587"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4591"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4595"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4599"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4603"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4609"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0,0.06824455,-0.06824455,0,291.6548,137.48517)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4615"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 2266.8,2000 300,0 0,2000 -300,0"
-         id="path4617"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4619"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4623"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4627"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4631"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4635"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4641"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0,0.06824455,-0.06824455,0,178.222,192.08077)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4647"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 4353.09,4000 300,0 0,2000 -300,0"
-         id="path4649"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4651"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4655"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4659"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4663"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4667"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4673"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0,0.06824455,-0.06824455,0,235.1732,246.67677)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4679"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 2000,2086.51 0,300 4000,0 0,-300"
-         id="path4681"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4683"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4687"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4691"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4695"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4699"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4705"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.06824455,0,0,0.06824455,215.9803,173.96867)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4711"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 2000,6167.36 0,300 2000,0 0,-300"
-         id="path4713"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4715"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4719"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4723"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4727"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4731"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4737"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.06824455,0,0,0.06824455,188.68253,285.36586)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4743"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m -225.782,11000 -300,0 0,-11000 300,0"
-         id="path4745"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4747"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4751"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4755"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4759"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4763"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4769"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0,-0.06824455,0.06824455,0,91.071542,260.32567)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4775"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 2266.8,6000 300,0 0,5000 -300,0"
-         id="path4777"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4779"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4783"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4787"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4791"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4795"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4801"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0,0.06824455,-0.06824455,0,178.222,342.21905)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4807"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 0,11337.5 0,300 2000,0 0,-300"
-         id="path4809"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4811"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4815"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4819"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4823"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4827"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4833"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.06824455,0,0,0.06824455,134.08689,426.49834)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4839"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 5761.93,4571.78 -212.13,-212.13 707.11,-707.11 212.13,212.13"
-         id="path4841"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4843"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4847"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4851"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4855"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4859"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4865"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.04825626,-0.04825626,0.04825626,0.04825626,266.9727,218.57967)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4871"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 8027.88,4625.21 -114.81,-277.17 664.6,-275.29 114.81,277.17"
-         id="path4873"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4875"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4879"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4883"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4887"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4891"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4897"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.06304977,-0.02611607,0.02611607,0.06304977,331.3486,223.86097)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4903"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 9032.13,4391.63 277.16,-114.81 566.94,1368.7 -277.17,114.8"
-         id="path4905"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4907"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4911"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4915"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4919"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4923"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4929"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02611604,0.06304977,-0.06304977,0.02611604,369.9122,245.09397)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4935"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 6902.91,6419.86 212.13,212.13 1414.21,-1414.21 -212.13,-212.13"
-         id="path4937"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4939"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4943"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4947"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4951"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4955"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4961"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.04825626,-0.04825626,0.04825626,0.04825626,319.3512,270.95817)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4967"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)">
-      <path
-         d="m 4756.96,7859.71 0,247.97 3000,0 0,-247.97"
-         id="path4969"
-         inkscape:connector-curvature="0"
-         style="fill-rule:nonzero"
-         vector-effect="non-scaling-stroke" />
-    </g>
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4971"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="86.8056"
-       font-style="normal"
-       font-weight="400"
-       id="g4993"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.06824455,0,0,0.06824455,277.5907,330.14523)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g5003"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g5011"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <g
-       font-size="3.125"
-       font-style="normal"
-       font-weight="400"
-       id="g4499"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       stroke-miterlimit="4"
-       style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.02729782,0,0,0.02729782,106.78907,110.18738)" />
-    <path
-       d="m 996.84089,110.1873 163.78691,0 0,54.5956 -109.1913,0 0,54.5957 54.5956,0 0,54.5956 -54.5956,0 0,136.48912 -54.59561,0 0,-300.27602"
-       id="path5081"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"
-       style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       vector-effect="non-scaling-stroke" />
-    <path
-       vector-effect="non-scaling-stroke"
-       style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:url(#linearGradient4835);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:connector-curvature="0"
-       id="path4831"
-       d="m 996.84089,110.1873 163.78691,0 0,54.5956 -109.1913,0 0,54.5957 54.5956,0 0,54.5956 -54.5956,0 0,136.48912 -54.59561,0 0,-300.27602" />
-    <path
-       style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:url(#linearGradient4837);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:connector-curvature="0"
-       id="path4833"
-       d="m 1249.5357,188.25104 -13.6484,44.92968 -18.1426,7.51368 -41.4219,-22.11719 -19.3007,19.30273 22.1171,41.41992 -7.5136,18.14258 -44.9297,13.64844 0,27.29883 44.9297,13.64844 7.5136,18.14257 -22.1171,41.42188 19.3007,19.30078 41.4219,-22.11914 18.1426,7.51562 13.6484,44.92969 27.2989,0 13.6484,-44.92969 18.1426,-7.51562 41.4199,22.11914 19.3047,-19.30078 -22.1192,-41.42188 7.5137,-18.14257 44.9297,-13.64844 0,-27.29883 -44.9297,-13.64844 -7.5137,-18.14258 22.1192,-41.41992 -19.3047,-19.30273 -41.4199,22.11719 -18.1426,-7.51368 -13.6484,-44.92968 -27.2989,0 z m 13.6485,81.89453 c 30.1515,0 54.5976,24.44335 54.5976,54.5957 0,30.15208 -24.4461,54.59375 -54.5976,54.59375 -30.1523,0 -54.5957,-24.44167 -54.5957,-54.59375 0,-30.15235 24.4434,-54.5957 54.5957,-54.5957 z" />
-  </g>
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4471"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4475"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4483"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4491"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4495"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4503"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4507"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.00878823,-0.00666089,0.00666089,0.00878823,-83.742907,56.926696)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:Ubuntu, Arial, Helvetica, Sans;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4513"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4523"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4527"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4531"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4535"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4539"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0,0.01102724,-0.01102724,0,-59.437101,57.102691)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circle light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4545"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4555"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4559"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4563"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4567"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4571"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.01102724,0,0,0.01102724,-113.41403,18.824491)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4577"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4587"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4591"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4595"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4599"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4603"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0,0.01102724,-0.01102724,0,-96.775337,26.845223)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4609"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4619"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4623"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4627"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4631"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4635"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0,0.01102724,-0.01102724,0,-115.10429,35.66701)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4641"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4651"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4655"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4659"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4663"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4667"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0,0.01102724,-0.01102724,0,-105.90187,44.488862)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4673"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4683"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4687"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4691"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4695"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4699"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.01102724,0,0,0.01102724,-109.00314,32.740381)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4705"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4715"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4719"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4723"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4727"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4731"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.01102724,0,0,0.01102724,-113.41403,50.740409)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4737"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4747"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4751"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4755"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4759"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4763"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0,-0.01102724,0.01102724,0,-129.18643,46.694309)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4769"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4779"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4783"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4787"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4791"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4795"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0,0.01102724,-0.01102724,0,-115.10429,59.926987)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4801"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4811"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4815"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4819"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4823"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4827"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.01102724,0,0,0.01102724,-122.23582,73.545191)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4833"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4843"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4847"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4851"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4855"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4859"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.00779745,-0.00779745,0.00779745,0.00779745,-100.76357,39.948814)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4865"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4875"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4879"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4883"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4887"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4891"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.01018785,-0.00421994,0.00421994,0.01018785,-90.361445,40.802189)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4897"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4907"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4911"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4915"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4919"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4923"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.00421994,0.01018785,-0.01018785,0.00421994,-84.130176,44.233107)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4929"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4939"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4943"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4947"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4951"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4955"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.00779745,-0.00779745,0.00779745,0.00779745,-92.300035,48.412354)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4961"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4971"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.01102724,0,0,0.01102724,-99.047873,57.976048)"
+     style="font-style:normal;font-weight:400;font-size:86.80560303px;font-family:'circe light';display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4993"
+     font-weight="400"
+     font-style="normal"
+     font-size="86.8056" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g5003"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g5011"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <g
+     transform="matrix(0.0044109,0,0,0.0044109,-126.64672,22.434331)"
+     style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Noto Sans';display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     stroke-miterlimit="4"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     id="g4499"
+     font-weight="400"
+     font-style="normal"
+     font-size="3.125" />
+  <path
+     vector-effect="non-scaling-stroke"
+     style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;filter:url(#filter4638)"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:connector-curvature="0"
+     id="path4510"
+     d="m 17.171608,22.434318 26.46538,0 0,8.821787 -17.643591,0 0,8.821804 8.821787,0 0,8.821787 -8.821787,0 0,22.054488 -8.821789,0 0,-48.519866" />
+  <path
+     vector-effect="non-scaling-stroke"
+     style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:connector-curvature="0"
+     id="path5081"
+     d="m 17.171608,22.434318 26.46538,0 0,8.821787 -17.643591,0 0,8.821804 8.821787,0 0,8.821787 -8.821787,0 0,22.054488 -8.821789,0 0,-48.519866" />
+  <path
+     style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;filter:url(#filter4642)"
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:connector-curvature="0"
+     id="path4512"
+     d="m 58.003101,35.048186 -2.205366,7.259928 -2.931557,1.214092 -6.693126,-3.573789 -3.118688,3.119017 3.573774,6.692805 -1.214079,2.931555 -7.259931,2.205372 0,4.41106 7.259931,2.205373 1.214079,2.931553 -3.573774,6.693122 3.118688,3.118702 6.693126,-3.574104 2.931557,1.214405 2.205366,7.259929 4.411072,0 2.205366,-7.259929 2.931558,-1.214405 6.692802,3.574104 3.119335,-3.118702 -3.574114,-6.693122 1.214096,-2.931553 7.25993,-2.205373 0,-4.41106 -7.25993,-2.205372 -1.214096,-2.931555 3.574114,-6.692805 -3.119335,-3.119017 -6.692802,3.573789 -2.931558,-1.214092 -2.205366,-7.259928 -4.411072,0 z m 2.205383,13.232864 c 4.872006,0 8.82211,3.94966 8.82211,8.821804 0,4.8721 -3.950104,8.821488 -8.82211,8.821488 -4.872136,0 -8.821804,-3.949388 -8.821804,-8.821488 0,-4.872144 3.949668,-8.821804 8.821804,-8.821804 z" />
+  <path
+     d="m 17.171608,22.434318 26.46538,0 0,8.821787 -17.643591,0 0,8.821804 8.821787,0 0,8.821787 -8.821787,0 0,22.054488 -8.821789,0 0,-48.519866"
+     id="path4831"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150"
+     style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:url(#linearGradient4835);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 58.003101,35.048186 -2.205366,7.259928 -2.931557,1.214092 -6.693126,-3.573789 -3.118688,3.119017 3.573774,6.692805 -1.214079,2.931555 -7.259931,2.205372 0,4.41106 7.259931,2.205373 1.214079,2.931553 -3.573774,6.693122 3.118688,3.118702 6.693126,-3.574104 2.931557,1.214405 2.205366,7.259929 4.411072,0 2.205366,-7.259929 2.931558,-1.214405 6.692802,3.574104 3.119335,-3.118702 -3.574114,-6.693122 1.214096,-2.931553 7.25993,-2.205373 0,-4.41106 -7.25993,-2.205372 -1.214096,-2.931555 3.574114,-6.692805 -3.119335,-3.119017 -6.692802,3.573789 -2.931558,-1.214092 -2.205366,-7.259928 -4.411072,0 z m 2.205383,13.232864 c 4.872006,0 8.82211,3.94966 8.82211,8.821804 0,4.8721 -3.950104,8.821488 -8.82211,8.821488 -4.872136,0 -8.821804,-3.949388 -8.821804,-8.821488 0,-4.872144 3.949668,-8.821804 8.821804,-8.821804 z"
+     id="path4833"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150"
+     style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';display:inline;opacity:1;fill:url(#linearGradient4837);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
 </svg>
